@@ -5,12 +5,11 @@
 
 <p align="justify"> Hi, there! I'm Jéssica, a Jr Back-end Developer working at Whirlpool Corporation.
   
-Recently, I graduated from the Business and Technology college, but I also have a Bachelor's degree in Business Administration. 
+<p align="justify">Recently, I graduated from the Business and Technology college, but I also have a Bachelor's degree in Business Administration. </p>
 
-As a newcomer to the coding world, I'm always studying, searching for new knowledge, and trying to make it all fun for myself 👩‍💻
+<p align="justify">As a newcomer to the coding world, I'm always studying, searching for new knowledge, and trying to make it all fun for myself 👩‍💻</p>
 
-<br>
-So, what's life? Maybe coding and listening to some Arctic Monkeys songs 🪩</p>
+<p align="justify">Passionate about music, manga, and cats. So, maybe life is about coding, being loyal to your ninja way and listening to some Arctic Monkeys songs 🪩</p>
 
 <br>
 <h3 align="left">See you around</h3>
