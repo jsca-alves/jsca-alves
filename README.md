@@ -9,7 +9,7 @@
 
 <p align="justify">As a newcomer to the coding world, I'm always studying, searching for new knowledge, and trying to make it all fun for myself 👩‍💻</p>
 
-<p align="justify">Passionate about music, manga, and cats. So, maybe life is about coding, being loyal to your ninja way and listening to some Arctic Monkeys songs 🪩</p>
+<p align="justify">Passionate about music,technology, manga and cats. So, maybe life is about coding, being loyal to your ninja way and listening to some Arctic Monkeys songs 🪩</p>
 
 <br>
 <h3 align="left">See you around</h3>
